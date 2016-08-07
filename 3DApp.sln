@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DApp", "3DApp\3DApp.vcxproj", "{B0121AAF-FF64-4B81-AB0B-275248BFA937}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DUnitTests", "3DUnitTests\3DUnitTests.vcxproj", "{98387F63-4A5A-4376-81FB-1EE62B69649F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9B638AA6-0791-4427-A417-5CD5CA180FB5}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0121AAF-FF64-4B81-AB0B-275248BFA937}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0121AAF-FF64-4B81-AB0B-275248BFA937}.Debug|Win32.Build.0 = Debug|Win32
+		{B0121AAF-FF64-4B81-AB0B-275248BFA937}.Debug|x64.ActiveCfg = Debug|x64
+		{B0121AAF-FF64-4B81-AB0B-275248BFA937}.Debug|x64.Build.0 = Debug|x64
+		{B0121AAF-FF64-4B81-AB0B-275248BFA937}.Release|Win32.ActiveCfg = Release|Win32
+		{B0121AAF-FF64-4B81-AB0B-275248BFA937}.Release|Win32.Build.0 = Release|Win32
+		{B0121AAF-FF64-4B81-AB0B-275248BFA937}.Release|x64.ActiveCfg = Release|x64
+		{B0121AAF-FF64-4B81-AB0B-275248BFA937}.Release|x64.Build.0 = Release|x64
+		{98387F63-4A5A-4376-81FB-1EE62B69649F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98387F63-4A5A-4376-81FB-1EE62B69649F}.Debug|Win32.Build.0 = Debug|Win32
+		{98387F63-4A5A-4376-81FB-1EE62B69649F}.Debug|x64.ActiveCfg = Debug|x64
+		{98387F63-4A5A-4376-81FB-1EE62B69649F}.Debug|x64.Build.0 = Debug|x64
+		{98387F63-4A5A-4376-81FB-1EE62B69649F}.Release|Win32.ActiveCfg = Release|Win32
+		{98387F63-4A5A-4376-81FB-1EE62B69649F}.Release|Win32.Build.0 = Release|Win32
+		{98387F63-4A5A-4376-81FB-1EE62B69649F}.Release|x64.ActiveCfg = Release|x64
+		{98387F63-4A5A-4376-81FB-1EE62B69649F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
